@@ -17,6 +17,8 @@ TensorflowLite<br>
 # Screenshots
 SplashScreen<br><br>
 <img src="images/ss1.png" width=350 height=550><br>
+Login Page<br><br>
+<img src="images/ss6.png" width=350 height=550><br>
 Uploading Picture<br><br>
 <img src="images/ss2.png" width=350 height=550><br>
 Monument Facts<br><br>
